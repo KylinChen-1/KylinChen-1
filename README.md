@@ -1,4 +1,4 @@
-# 陈瑞林 · Ruilin Chen
+# Kylin Chen
 
 上海交通大学 2027 届，AI 全栈 / AI 应用工程师方向。做 AI 应用、业务工具和交互产品。  
 Shanghai Jiao Tong University, Class of 2027. Building AI applications, business tools, and interactive experiences.
